@@ -43,9 +43,9 @@ mini-c2/
 ## Requirements
 
 - Python 3.9+
-- Flask (or FastAPI, depending on your choice)
+- Flask
 - requests
-- cryptography (optional)
+- cryptography
 
 ---
 
