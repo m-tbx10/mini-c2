@@ -28,11 +28,12 @@ This project implements a minimal C2 architecture consisting of:
 
 ## Project Structure
 
-```mini-c2/
-├── server/ # C2 server logic
-├── agent/ # Agent implant
-├── shared/ # Shared protocol and crypto modules
-├── logs/ # Runtime logs
+```
+mini-c2/
+├── server/ 
+├── agent/ 
+├── shared/ 
+├── logs/ 
 ├── config.example.py
 └── README.md
 ```
